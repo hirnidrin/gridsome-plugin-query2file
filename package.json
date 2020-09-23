@@ -1,0 +1,16 @@
+{
+  "name": "gridsome-plugin-query2file",
+  "version": "0.1.0",
+  "description": "Run queries on the Gridsome GraphQL data layer and write each result to a json file.",
+  "main": "index.js",
+  "author": "hirnidrin",
+  "license": "Unlicense",
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "graphql"
+  ],
+  "devDependencies": {
+    "standard": "^14.3.4"
+  }
+}
